@@ -1,3 +1,8 @@
+# 🛠️ SYSTEM ARCHITECTURE PORTFOLIO
+
+![Silo to Multi-Tenant Migration Plan](architecture-map.png)
+
+---
 # Ken Faris | Systems & Software Architecture Portfolio
 > San Diego, CA | developer_dishwasher@yahoo.com
 
