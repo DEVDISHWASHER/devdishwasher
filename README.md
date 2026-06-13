@@ -1,7 +1,7 @@
-![Silo to Multi-Tenant Migration Plan](architecture-map.png)
+![Silo to Multi-Tenant Migration Plan](oracle-sql-java-python.png)
 
 ---
-# Ken Faris | Systems & Software Architecture Portfolio
+# Ken Faris | Oracle Developer
 > San Diego, CA | developer_dishwasher@yahoo.com
 
 ## Operational Philosophy
