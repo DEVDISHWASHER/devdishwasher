@@ -1,5 +1,3 @@
-# 🛠️ SYSTEM ARCHITECTURE PORTFOLIO
-
 ![Silo to Multi-Tenant Migration Plan](architecture-map.png)
 
 ---
