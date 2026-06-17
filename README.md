@@ -1,11 +1,11 @@
 ![Silo to Multi-Tenant Migration Plan](oracle-sql-java-python.jpg)
 
-## Ken Faris | Developer
+# Ken Faris | Developer
 * **Contact:** developer_dishwasher@yahoo.com
 * **Location:** Remote - USA
 
 ### Operational Philosophy
-Read it. Chunk it. Run piece by piece.  Where it breaks, perform textbook fixes. Else come up with a work around.  I showcase three systems that required my operational method. These were done in 3 weeks using AI as an apprentice, for which i directed as a force multiplier.  Ai is error prone but can automate repetitive takes when properly conditioned to help not lead.  Each project isolated and triple checked to get me an 100% / A.  The instructor was treacherous, vaugue and evasive.  I was lucky to have him as my professor.
+Read it. Chunk it. Run piece by piece. Where it breaks, perform textbook fixes. Else come up with a work-around. I showcase three systems that required my operational method. These were done in 3 weeks using AI as an apprentice, which I directed as a force multiplier. AI is error-prone but can automate repetitive tasks when properly conditioned to help, not lead. Each project was isolated and triple-checked to earn a 100% / A. The instructor was treacherous, vague, and evasive. I was lucky to have him as my professor.
 
 ### Core Engine Repositories
 
@@ -29,5 +29,3 @@ Read it. Chunk it. Run piece by piece.  Where it breaks, perform textbook fixes.
 * **Target Platforms:** Linux Ubuntu, Fedora, Windows Server
 * **Credentials:** SDSU Professional Certificate (Oracle SQL, PL/SQL, Python, Java) [2026]
 * **Vanguard Track:** UCSD Advanced Track (Linear Algebra for Machine Learning) [In Progress - June 2026]
-
----
