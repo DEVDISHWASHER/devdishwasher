@@ -12,7 +12,7 @@ Ken Faris engineers high-throughput data-validation loops, auditing automated pi
 #### 1. java-invariant
 * **Type:** Deterministic state machine & reference tracking
 * **Runtime:** Java SE 21
-* **Architecture:** Centralized console loop logic driving low-latency state management and identity tracking via Reference Variables. Implements double-precision primitive computation to eliminate floating-point drift across ledger metrics, analytical tracking systems, and real-time dashboard states.
+* **Architecture:** Centralized console loop logic driving low-latency state management and identity tracking via Reference Variables. Implements BigDecimal precision mapping to compute immutable data structures, completely eliminating floating-point drift across user metrics, salaries, and operations dashboards.
 
 #### 2. oracle-multitenant
 * **Type:** Transactional backend consolidation & relational engine
