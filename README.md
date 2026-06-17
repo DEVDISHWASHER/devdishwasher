@@ -1,4 +1,4 @@
-![Silo to Multi-Tenant Migration Plan](oracle-sql-java-python.png)
+![Silo to Multi-Tenant Migration Plan](oracle-sql-java-python.jpg)
 
 ---
 # Ken Faris | Oracle Developer
