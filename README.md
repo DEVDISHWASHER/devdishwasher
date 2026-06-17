@@ -1,11 +1,11 @@
 ![Silo to Multi-Tenant Migration Plan](oracle-sql-java-python.jpg)
 
-## Ken Faris | Quantitative Infrastructure & Systems Developer
+## Ken Faris | Developer
 * **Contact:** developer_dishwasher@yahoo.com
 * **Location:** Remote - USA
 
 ### Operational Philosophy
-Ken Faris engineers high-throughput data-validation loops, auditing automated pipeline and transaction outputs against strict execution invariants to mitigate algorithmic entropy and technical drift. Treating processing friction as an optimization trigger, this portfolio showcases three production-ready engines deployed across a hyper-accelerated three-week delivery cycle—utilizing modular automation as an operational force multiplier while verifying every structural data block in isolated sandboxes to guarantee unbroken runtime execution.
+Read it. Chunk it. Run piece by piece.  Where it breaks perform textbook fixes. Else come up with a work around.  I showcase three systems that required my operational method. These were done in 3 weeks using AI as an apprentice for which i directed as a force multiplier.  Ai is error prone but can automate repetitive takes when properlay conditioned to help not lead.Each project isolated and triple checked to get me an 100% / A.  The instructor was treacherous, vaugue and evasive.  I was lucky to have him as my professor.
 
 ### Core Engine Repositories
 
