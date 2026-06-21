@@ -1,0 +1,23 @@
+# Language attribution configuration
+# Balances project representation to reflect actual effort and contribution
+
+# Java Project - java-invariant/
+java-invariant/** linguist-language=Java
+*.java linguist-language=Java
+
+# SQL Project - oracle-multitenant/
+oracle-multitenant/** linguist-language=PLSQL
+*.sql linguist-language=PLSQL
+
+# Python Project - python-scraper/
+python-scraper/** linguist-language=Python
+*.py linguist-language=Python
+
+# Exclude vendor/generated files from language statistics
+.gitignore linguist-vendored
+*.lock linguist-vendored
+package-lock.json linguist-vendored
+requirements.txt linguist-documentation
+
+# Ensure Jupyter notebooks are counted but not weighted disproportionately
+*.ipynb linguist-detectable=true
