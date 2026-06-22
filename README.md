@@ -4,7 +4,7 @@
 * **Contact:** developer_dishwasher@yahoo.com
 * **Location:** Remote - USA
 
-### Operational Philosophy
+### Operational Method
 Read it. Chunk it. Run piece by piece. Where it breaks, perform textbook fixes. Else come up with a work-around. I showcase three systems that required my operational method. These were done in 3 weeks using AI as an apprentice, which I directed as a force multiplier. AI is error-prone but can automate repetitive tasks when properly conditioned to help, not lead. Each project was isolated and triple-checked to earn a 100% / A. The instructor was treacherous, vague, and evasive. I was lucky to have him as my professor.
 
 ### Core Engine Repositories
