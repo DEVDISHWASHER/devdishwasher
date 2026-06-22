@@ -5,7 +5,7 @@
 * **Location:** Remote - USA
 
 ### Operational Method
-Read it. Chunk it. Run piece by piece. Where it breaks, perform textbook fixes. Else come up with a work-around. I showcase three systems that required my operational method. These were done in 3 weeks using AI as an apprentice, which I directed as a force multiplier. AI is error-prone but can automate repetitive tasks when properly conditioned to help, not lead. Each project was isolated and triple-checked to earn a 100% / A. The instructor was treacherous, vague, and evasive. I was lucky to have him as my professor.
+Read it. Chunk it. Run piece by piece. Where it breaks, perform textbook fixes. Else come up with a work-around. I showcase three systems that required this method. Each project was isolated and triple-checked for 100% accuracy. AI was directed as an apprentice, not a lead.
 
 ### Core Engine Repositories
 
@@ -28,4 +28,7 @@ Read it. Chunk it. Run piece by piece. Where it breaks, perform textbook fixes. 
 * **Hardware:** Lenovo P16 Gen 2 | Intel i9 CPU | 128GB RAM | NVIDIA RTX 4000 Ada GPU
 * **Target Platforms:** Linux Ubuntu, Fedora, Windows Server
 * **Credentials:** SDSU Professional Certificate (Oracle SQL, PL/SQL, Python, Java) [2026]
-* **Vanguard Track:** UCSD Advanced Track (Linear Algebra for Machine Learning) [In Progress - June 2026]
+* **Advanced Coursework:** UCSD Linear Algebra for Machine Learning [June 2026]
+
+### Technical Writeups
+[Silo to Multitenant: Oracle Legacy Migration](blog-post-link-here)
