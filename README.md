@@ -1,8 +1,8 @@
 ![Silo to Multi-Tenant Migration Plan](oracle-sql-java-python.jpg)
 
-# Ken Faris | Developer
+# Ken Faris | Oracle Multitenant & Data Migration Specialist
 * **Contact:** developer_dishwasher@yahoo.com
-* **Location:** Remote - USA
+* **Location:** San Diego, CA 
 
 ### Operational Method
 Read it. Chunk it. Run piece by piece. Where it breaks, perform textbook fixes. Else come up with a work-around. I showcase three systems that required this method. Each project was isolated and triple-checked for 100% accuracy. AI was directed as an apprentice, not a lead.
