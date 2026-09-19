@@ -1,4 +1,4 @@
-## Kenneth Seeks Developer Queue Clean Up
+## I SEEK DEV QUEUE CLEAN-UP
 
 SDSU Global Campus certified Oracle PL/SQL, Java, Python Developer.
 
@@ -8,7 +8,7 @@ Prefer Oracle. Long ago I cleared system engineer queues. Dev roles only.
  
 ![Silo to Multi-Tenant Migration Plan](oracle-sql-java-python.jpg)
 
-## I Crave Oracle Database Work At Any Level
+## I CRAVE ORACLE DATABASE
 
 Any level dev work. I will continue school online. I get A's.
 
@@ -16,7 +16,7 @@ I know migrations, TCP/IP, sockets, SQL, Linux, Windows, terminal, regex and que
 
 My goal is to keep your queue cleared so i can grow as a developer.
 
-## Projects
+## I BUILT THESE PROJECTS
 
 #### Java-invariant
 * **Type:** Deterministic state machine & reference tracking
