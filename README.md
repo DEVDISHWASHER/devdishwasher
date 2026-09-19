@@ -18,20 +18,20 @@ My goal is to keep your queue cleared so i can grow as a developer.
 
 ## I BUILT THESE PROJECTS
 
-#### Java-invariant
-* **Type:** Deterministic state machine & reference tracking
-* **Runtime:** Java SE 21
-* **Architecture:** Centralized console loop logic driving low-latency state management and identity tracking via Reference Variables. Implements BigDecimal precision mapping to compute immutable data structures, completely eliminating floating-point drift across user metrics, salaries, and operations dashboards.
+#### JAVA-INVARIANT
+* **Java SE 21** deterministic state & reference tracking
+* Central console **loop logic** low-latency state management 
+* **BigDecimal precision** to compute immutable data structures
+* **Zero floating-point drift** metrics, salaries, and Op dashboards
 
-#### Oracle-multitenant
+#### ORACLE-MULTITENANT
 * **Type:** Transactional backend consolidation & relational engine
 * **Engine:** Oracle PL/SQL
 * **Architecture:** Containerized schema migration path transforming legacy single-silo non-CDB instances into hierarchical Oracle Multitenant PDB container domains. Enforces programmatic stored procedures, optimized cursor operations, database triggers, and strict relational constraints across tiered data sets and chronological audit logs.
 
-#### Python-scraper
+#### PYTHON-SCRAPER
 * **Type:** Data extraction & automated text analysis pipeline
 * **Runtime:** Python 3 (Requests, BS4, Regex)
 * **Architecture:** Automated harvesting pipeline ingesting raw hypertext and unstructured data streams via targeted HTTP headers. Parses, tokenizes, and strips raw text via regular expressions into structured, deduplicated master verification vectors optimized for downstream analytical models.
 
-### Technical Writeups
-[Silo to Multitenant: Oracle Legacy Migration](blog-post-link-here)
+### PL/SQL Oracle Developer - Java Developer - Python Developer
