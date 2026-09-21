@@ -30,4 +30,4 @@ My goal is to keep your queue cleared so i can grow as a developer.
 * **Python 3 / Requests / BS4** web scraper
 * Parses HTTP streams, strips HTML, and deduplicates text
 
-[Dishwasher@yahoo.com](mailto:Dishwasher@yahoo.com)
+[Devloper_Dishwasher@yahoo.com](mailto:Developer_Dishwasher@yahoo.com)
