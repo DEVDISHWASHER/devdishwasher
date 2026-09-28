@@ -16,8 +16,8 @@
 * **Before:** Legacy Single-Silo Non-CDB Instances (Data Fragmentation)
 * **During:** Schema Migration, Constraint Validation, PL/SQL Template Execution
 * **After:** Unified Oracle Multitenant Hierarchy (Isolated PDB Containerization)
-
-![Silo to Multi-Tenant Migration Plan](silo-multitenant.jpg)
+  
+![Silo to Multi-Tenant Migration Plan](oracle-sql-java-python.jpg)
 
 ---
 
