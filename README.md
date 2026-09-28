@@ -2,6 +2,7 @@
 * 📞 (619) 900-5401
 * ✉️ Developer_DishWasher@Yahoo.Com
 * 📡 San Diego, CA
+* 👤 KF (Hawk Eyes) 🦉 *No Longer Drifting!*
 
 ---
 
@@ -13,11 +14,29 @@
 ---
 
 ### 🗺️ DATABASE CONSOLIDATION ARCHITECTURE
-* **Before:** Legacy Single-Silo Non-CDB Instances (Data Fragmentation)
-* **During:** Schema Migration, Constraint Validation, PL/SQL Template Execution
-* **After:** Unified Oracle Multitenant Hierarchy (Isolated PDB Containerization)
-  
-![Silo to Multi-Tenant Migration Plan](oracle-sql-java-python.jpg)
+*Simple But Not Easy*
+
+```text
+ [BEFORE: SILOS]           [DURING: CONSOLIDATION]        [AFTER: MULTI-TENANT]
+┌──────────────┐          ┌───────────────────────┐      ┌─────────────────────┐
+│ App 1 (Java) │ ──┐      │ 1. Consolidate Paths  │      │    APP PORTFOLIO    │
+│ DB 1 Schema 1│   │      │ 2. Refactor Masters   │ ───> │    (github.com)     │
+├──────────────┤   │      │    (github->portfolio)│      └──────────┬──────────┘
+│ App 2 (Java) │ ──┼───>  │ 3. Build Readme Engine│                 │
+│ DB 2 Schema 2│   │      └───────────────────────┘                 v
+├──────────────┤   │                                     ┌─────────────────────┐
+│ App 3 (Orcl) │ ──┘     🚀 THE "PORTFOLIO" VAN          │   MULTI-TENANT DB   │
+│ DB 3 Schema 3│         [Ingestion & Migration]         │ ┌─────────────────┐ │
+└──────────────┘                                         │ │ TENANT 1 Data A │ │ (1a)
+                                                         ├─────────────────┤ │
+                                                         │ │ TENANT 2 Data B │ │ (2b)
+                                                         ├─────────────────┤ │
+                                                         │ │ TENANT 3 Data C │ │ (3c)
+                                                         └─────────────────┘ │
+                                                         └─────────────────────┘
+```
+
+![Silo to Multi-Tenant Migration Plan](silo-multitenant.jpg)
 
 ---
 
@@ -32,14 +51,14 @@
 
 ### 💻 PRODUCTION BUILDS
 * **ORACLE-MULTITENANT (PL/SQL):**
-  Migrated schemas to CDB/PDB.
-  Wrote procedures, triggers, fixes.
+  Migrated legacy single-silo instances into CDB/PDB containers.
+  Enforces schema constraints, stored procedures, and triggers.
 * **WITHROW-SYSTEM (Java 21):**
-  Built CLI user admin console.
-  Used BigDecimal to stop float drift.
+  Built CLI user admin console using immutable state structures.
+  Leveraged BigDecimal precision mapping to eliminate floating-point drift.
 * **TEXT-ANALYZER (Python 3):**
-  Scraped streams using Requests/BS4.
-  Parsed text data logs via regex.
+  Scraped streams using Requests/BS4 to parse and clean data.
+  Utilized strict regular expressions to deduplicate text logs.
 
 ---
 
@@ -48,9 +67,9 @@
 * **Cisco Scholarship Recipient** (Post-COVID)
   Earned CCNA CyberOps Certification.
 * **Network Systems Eng.** (Pre-COVID)
-  Cleared ticket queues, analyzed logs.
+  Cleared infrastructure ticket queues, processed logs, hit deadlines.
 * **UCSD AI Certification** (In Progress)
-  Taking Probability & Stats now.
-  Finished Linear Algebra at 110%.
+  Taking Probability & Statistics for AI now.
+  Completed Linear Algebra for Machine Learning at 110%.
 * **SDSU Global Campus** (Graduated 2026)
-  Oracle, PL/SQL, Java, Python Cert.
+  Advanced Database & Software Developer Certificate (100% on Finals/Projects).
