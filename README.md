@@ -1,19 +1,18 @@
 # KENNETH FARIS
-* [✉️ Developer_DishWasher@Yahoo.Com](mailto:Developer_DishWasher@Yahoo.Com)
+Developer_DishWasher@Yahoo.Com](mailto:Developer_DishWasher@Yahoo.Com)
+
+### SEEKS ORACLE PL/SQL
+* Developer Queue Work
+* Clear Data Backlogs
+* Oracle Dev shop
 
 
-### ⚡ SEEKS ORACLE PL/SQL
-* Wants Developer Queue Work
-* Clears Data Backlogs
-* Prefer Oracle Dev shops
-
-
-### 🗺️ MULTITENANT GOAL
+### MULTITENANT GOAL
 
 ![Silo to Multi-Tenant Migration Plan](oracle-sql-java-python.jpg)
 
 
-### 🛠️ BASELINE KNOWLEDGE
+### BASELINE KNOWLEDGE
 * **DB:** Oracle, PL/SQL, CDB/PDB
 * **Languages:** Java 21, Python 3
 * **OS:** Linux (Ubuntu, Fedora), Win
@@ -22,18 +21,18 @@
 
 ---
 
-### 💻 PROJECTS
-* **ORACLE-MULTITENANT (PL/SQL):**
-  Migrated single-silos to CDB/PDB.
-  Wrote procedures, triggers, fixes.
-* **WITHROW-SYSTEM (Java 21):**
-  Built CLI user admin console.
-  Used BigDecimal for precision.
-  Eliminated floating-point drift.
-* **TEXT-ANALYZER (Python 3):**
-  Scraped streams via Requests/BS4.
-  Parsed text logs using regex.
-  Deduplicated unstructured data.
+### PROJECTS
+**ORACLE-MULTITENANT (PL/SQL):**
+* Migrated single-silos to CDB/PDB
+* Wrote procedures, triggers, fixes
+**WITHROW-SYSTEM (Java 21):**
+* Built CLI user admin console
+* Used BigDecimal for precision
+* Eliminated floating-point drift
+**TEXT-ANALYZER (Python 3):**
+* Scraped streams via Requests/BS4
+* Parsed text logs using regex
+* Deduplicated unstructured data
 
 ---
 
