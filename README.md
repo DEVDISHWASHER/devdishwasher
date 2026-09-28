@@ -3,21 +3,20 @@
 
 ---
 
-### ⚡ CORE FUNCTION
+### ⚡ SEEKS ORACLE PL/SQL
 * Wants Developer Queue Work
 * Clears Data Backlogs
 * Prefer Oracle Dev shops
 
 ---
 
-### 🗺️ ARCHITECTURE PIPELINE
-*Simple But Not Easy*
+### 🗺️ MULTITENANT GOAL
 
 ![Silo to Multi-Tenant Migration Plan](oracle-sql-java-python.jpg)
 
 ---
 
-### 🛠️ TECHNICAL STACK
+### 🛠️ BASELINE KNOWLEDGE
 * **DB:** Oracle, PL/SQL, CDB/PDB
 * **Languages:** Java 21, Python 3
 * **OS:** Linux (Ubuntu, Fedora), Win
@@ -26,7 +25,7 @@
 
 ---
 
-### 💻 PRODUCTION BUILDS
+### 💻 PROJECTS
 * **ORACLE-MULTITENANT (PL/SQL):**
   Migrated single-silos to CDB/PDB.
   Wrote procedures, triggers, fixes.
