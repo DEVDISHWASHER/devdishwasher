@@ -1,17 +1,12 @@
 # KENNETH FARIS
-* 📞 (619) 900-5401
-* ✉️ Developer_DishWasher@Yahoo.Com
-* 📡 San Diego, CA
-* 👤 KF (Hawk Eyes) 🦉
-* 📡 *No Longer Drifting!*
+* [✉️ Developer_DishWasher@Yahoo.Com](mailto:Developer_DishWasher@Yahoo.Com)
 
 ---
 
 ### ⚡ CORE FUNCTION
-* Wants Developer Queue Work.
-* Wants Database Clearance.
-* High-stress log diagnostics.
-* Prefer Oracle Dev shops.
+* Wants Developer Queue Work
+* Clears Data Backlogs
+* Prefer Oracle Dev shops
 
 ---
 
