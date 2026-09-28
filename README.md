@@ -36,7 +36,7 @@
                                                          └─────────────────────┘
 ```
 
-![Silo to Multi-Tenant Migration Plan](silo-multitenant.jpg)
+![Silo to Multi-Tenant Migration Plan](oracle-sql-java-python.jpg)
 
 ---
 
