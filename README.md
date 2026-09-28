@@ -1,33 +1,56 @@
-## I SEEK DEV QUEUE CLEAN-UP
+# KENNETH FARIS
+* 📞 (619) 900-5401
+* ✉️ Developer_DishWasher@Yahoo.Com
+* 📡 San Diego, CA
 
-SDSU Global Campus certified Oracle PL/SQL, Java, Python Developer.
+---
 
-UCSD Technical Aspects of Artificial Intelligence Certification in progress.
+### ⚡ CORE FUNCTION
+* Wants Developer / Database Queue Clearance work.
+* Specializes in high-stress backend log diagnostics.
+* Prefer Oracle environment or Developer-Only shop.
 
-Prefer Oracle. Long ago I cleared system engineer queues. Dev roles only.
- 
-![Silo to Multi-Tenant Migration Plan](oracle-sql-java-python.jpg)
+---
 
-## I CRAVE ORACLE DATABASE
+### 🗺️ DATABASE CONSOLIDATION ARCHITECTURE
+* **Before:** Legacy Single-Silo Non-CDB Instances (Data Fragmentation)
+* **During:** Schema Migration, Constraint Validation, PL/SQL Template Execution
+* **After:** Unified Oracle Multitenant Hierarchy (Isolated PDB Containerization)
 
-Any level dev work. I will continue school online. I get A's.
+![Silo to Multi-Tenant Migration Plan](silo-multitenant.jpg)
 
-I know migrations, TCP/IP, sockets, SQL, Linux, Win, terminal, regex, queue clearing.
+---
 
-My goal is to keep your queue cleared so i can grow as a developer.
+### 🛠️ TECHNICAL STACK
+* **DB:** Oracle SQL, PL/SQL, CDB/PDB
+* **Languages:** Java 21, Python 3
+* **Security:** Network Security, CyberOps
+* **OS:** Linux (Ubuntu/Fedora), Win
+* **Network:** TCP/IP, Sockets, Regex
 
-## I BUILT THESE PROJECTS
+---
 
-#### JAVA-INVARIANT
-* **Java 21** state machine using **BigDecimal** precision
-* Central loop logic eliminating floating-point drift
+### 💻 PRODUCTION BUILDS
+* **ORACLE-MULTITENANT (PL/SQL):**
+  Migrated schemas to CDB/PDB.
+  Wrote procedures, triggers, fixes.
+* **WITHROW-SYSTEM (Java 21):**
+  Built CLI user admin console.
+  Used BigDecimal to stop float drift.
+* **TEXT-ANALYZER (Python 3):**
+  Scraped streams using Requests/BS4.
+  Parsed text data logs via regex.
 
-#### ORACLE-MULTITENANT
-* **PL/SQL** migration from non-CDB to **CDB/PDB** domains
-* Enforces schema constraints, stored procedures, and triggers
+---
 
-#### PYTHON-SCRAPER
-* **Python 3 / Requests / BS4** web scraper
-* Parses HTTP streams, strips HTML, and deduplicates text
-
-[Devloper_Dishwasher@yahoo.com](mailto:Developer_Dishwasher@yahoo.com)
+### 🎓 HISTORY & CERTIFICATIONS
+* **Academic Developer** (2024–Present)
+* **Cisco Scholarship Recipient** (Post-COVID)
+  Earned CCNA CyberOps Certification.
+* **Network Systems Eng.** (Pre-COVID)
+  Cleared ticket queues, analyzed logs.
+* **UCSD AI Certification** (In Progress)
+  Taking Probability & Stats now.
+  Finished Linear Algebra at 110%.
+* **SDSU Global Campus** (Graduated 2026)
+  Oracle, PL/SQL, Java, Python Cert.
