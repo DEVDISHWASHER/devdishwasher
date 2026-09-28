@@ -1,20 +1,17 @@
 # KENNETH FARIS
 * [✉️ Developer_DishWasher@Yahoo.Com](mailto:Developer_DishWasher@Yahoo.Com)
 
----
 
 ### ⚡ SEEKS ORACLE PL/SQL
 * Wants Developer Queue Work
 * Clears Data Backlogs
 * Prefer Oracle Dev shops
 
----
 
 ### 🗺️ MULTITENANT GOAL
 
 ![Silo to Multi-Tenant Migration Plan](oracle-sql-java-python.jpg)
 
----
 
 ### 🛠️ BASELINE KNOWLEDGE
 * **DB:** Oracle, PL/SQL, CDB/PDB
