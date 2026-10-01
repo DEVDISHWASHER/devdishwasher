@@ -1,58 +1,41 @@
-# KENNETH FARIS
-[Developer_DishWasher@Yahoo.Com](mailto:Developer_DishWasher@Yahoo.Com)
-
-### SEEKS ORACLE PL/SQL
----
-* Developer Queue Work
-* Clear Data Backlogs
-* Oracle Dev shop
-
 ![Silo to Multi-Tenant Migration Plan](oracle-sql-java-python.jpg)
 
+# KENNETH FARIS
+[developer_dishwasher@yahoo.com](mailto:developer_dishwasher@yahoo.com)
 
-### BASELINE KNOWLEDGE
----
-* **DB:** Oracle, PL/SQL, CDB/PDB
-* **Languages:** Java 21, Python 3
-* **OS:** Linux (Ubuntu, Fedora), Win
-* **Security:** CCNA CyberOps Certified
-* **Network:** TCP/IP, Sockets, Regex
+### SEEKS DEVELOPER TICKET WORK
 
+Oracle database ticket work
 
-### DEVELOPER PROJECTS
----
+## SKILLS
 
-**ORACLE-MULTITENANT (PL/SQL):**
-* Migrated single-silos to CDB/PDB
-* Wrote procedures, triggers, fixes
+Oracle, Java, Python, Linux
 
-**WITHROW-SYSTEM (Java 21):**
-* Built CLI user admin console
-* Used BigDecimal for precision
-* Eliminated floating-point drift
+## PROJECTS
 
-**TEXT-ANALYZER (Python 3):**
-* Scraped streams via Requests/BS4
-* Parsed text logs using regex
-* Deduplicated unstructured data
+### [ORACLE](https://github.com/devdishwasher/oracle)
 
+Multitenant, procedures, triggers, scripts
 
-### CERTIFICATE EDUCATION
----
+### [JAVA](https://github.com/devdishwasher/java)
 
-**Academic Developer**
-* 2024–Present
+Command line console, bigdecimal
 
-**Cisco Scholarship Recipient**
-* Earned CCNA CyberOps Cert
+### [PYTHON](https://github.com/devdishwasher/python)
 
-**Network Systems Eng.**
-* Cleared ticket queues and logs
+Requests, beautiful soup, regex
 
-**UCSD AI Certification**
-* Taking Probability & Stats now
-* Finished Linear Algebra at 110%
+## SCHOOL
 
-**SDSU Global Campus** Graduated 2026
-* Oracle, PL/SQL, Java, Python Cert
-* Finished 100% on Finals & Projects
+### UCSD CERTIFICATE
+
+Technical Aspects of AI - current until 2028
+
+### SDSU CERTIFICATE
+
+Oracle Java Python developer - 2025
+
+### CCNA CERTIFICATE
+
+Cyberops - 2021
+
